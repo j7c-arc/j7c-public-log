@@ -8,6 +8,7 @@
 - Recorded that GeckoTerminal metadata was prepared but not submitted; no payment, approval, or listing update was completed.
 - Preserved the human-owned, AI-assisted disclosure and the no-affiliation/no-endorsement statement regarding a16z.
 - Published the first AI-assisted Joan committee image and its creative note in the public log as independent satire. No response, performance, or X-publication claim is made for the asset.
+- Added a dated participation note for two contextual replies: [Argus](https://x.com/J7Cofficial/status/2104344229661299151) and [Arc](https://x.com/J7Cofficial/status/2104344594288927089). The voice guidance now favors calm, specific community participation without volume or performance claims.
 
 ### GeckoTerminal metadata — prepared, not submitted
 
