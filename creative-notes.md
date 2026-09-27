@@ -1,4 +1,20 @@
-# Creative note: Joan’s committee moat
+# Creative notes: current castle guardian and earlier committee moat
+
+## Current direction
+
+The current J7C visual direction is an attractive adult Joan warrior guarding an Arc-inspired castle. The v2 artwork uses Arc emblems on the armor, garments, and banners, with no J7C lettering in the clothing. The prepared image is AI-assisted character art for independent VC satire. It does not imply Arc or a16z affiliation or endorsement, and it makes no price, trading, return, or performance claim.
+
+![Joan guards the Arc-inspired castle](j7c-arc-castle-guardian-v2.png)
+
+Scheduled caption:
+
+> Joan holds the gate.
+>
+> $J7C
+
+Verified in the X scheduled list on September 28 at 08:20 KST for September 28, 2026 at 09:00 KST. Scheduled does not mean published.
+
+## Earlier committee concept
 
 This is the first Joan committee meme prepared for the J7C public log. It was created as one AI-assisted image using the existing J7C banner as a visual reference for Joan’s recognizable identity, silver armor, and blue/red palette. The scene is original: Joan presents a literal castle moat to a fictional investment committee.
 
@@ -7,3 +23,4 @@ This is the first Joan committee meme prepared for the J7C public log. It was cr
 The exact subtitle is: **“Our moat is an actual moat.”**
 
 Suggested context: independent VC-culture satire with no a16z affiliation or endorsement. The image makes no price, trading, return, or performance claim. It is a creative asset and does not establish audience response or campaign results.
+
