@@ -23,3 +23,11 @@ Network: **Arc**. Token contract: `0x4060e632bBb7D731d50fA8Fc58C82D93154085c1`.
 Give Joan a seven-word quest, suggest a fictional investment-committee memo, or point out a factual error through [our X account](https://x.com/J7Cofficial). No token purchase is needed. We welcome useful criticism and original ideas.
 
 Observations are dated snapshots. A displayed metric can change, be delayed, or disagree across trackers; it must not be read as a historical series without a timestamped source.
+
+## Visual preview
+
+AI-assisted art for an independent Joan/VC-satire concept:
+
+![Joan presents the moat](j7c-committee-moat.png)
+
+See the [creative note](creative-notes.md) for the exact subtitle and disclosure. This asset makes no price, trading, return, or performance claim.
