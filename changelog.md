@@ -25,3 +25,6 @@ Updated [@J7Cofficial](https://x.com/J7Cofficial) with the Joan/Arc theme, VC-cu
 ### First participation prompt — published and pinned
 
 Published [the introduction and seven-word quest invitation](https://x.com/J7Cofficial/status/2104220682670559266). Participation requires no token purchase. Publication was checked; a resulting increase in participation or milestone progress has not been established.
+
+### September 28 visual correction
+The guardian now wears J7C on the breastplate, while the other garment and banner emblems remain Arc arches. The scene, character and castle composition are preserved. This is independent AI-assisted character art, with no Arc or a16z endorsement.
