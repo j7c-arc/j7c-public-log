@@ -20,7 +20,7 @@ Network: **Arc**. Token contract: `0x4060e632bBb7D731d50fA8Fc58C82D93154085c1`.
 
 ## How to participate
 
-Give Joan a seven-word quest, suggest a fictional investment-committee memo, or point out a factual error through [our X account](https://x.com/J7Cofficial). No token purchase is needed. We welcome useful criticism and original ideas.
+Share a Joan idea, point out a factual error, or suggest a useful creative direction through [our X account](https://x.com/J7Cofficial). No token purchase is needed. We welcome thoughtful participation and original ideas.
 
 Observations are dated snapshots. A displayed metric can change, be delayed, or disagree across trackers; it must not be read as a historical series without a timestamped source.
 
@@ -36,7 +36,7 @@ The scheduled caption is:
 >
 > $J7C
 
-The earlier v2 image was verified in the X scheduled list at 08:20 KST for September 28, 2026 at 09:00 KST. The displayed v3 artwork makes the requested breastplate correction. Scheduled does not mean published.
+The current v3 image was verified in the X scheduled list as the single scheduled entry for September 28, 2026 at 09:00 KST. Its media URL is `https://pbs.twimg.com/media/HTQpw9DbAAELwhM.jpg`. Scheduled does not mean published.
 
 ## Earlier visual preview
 
@@ -45,5 +45,3 @@ AI-assisted art for an independent Joan/VC-satire concept:
 ![Joan presents the moat](j7c-committee-moat.png)
 
 See the [creative note](creative-notes.md) for the exact subtitle and disclosure. This asset makes no price, trading, return, or performance claim.
-
-
