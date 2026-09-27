@@ -12,7 +12,7 @@ Scheduled caption:
 >
 > $J7C
 
-The earlier v2 image was verified in the X scheduled list at 08:20 KST for September 28, 2026 at 09:00 KST. The displayed v3 artwork makes the requested breastplate correction. Scheduled does not mean published.
+The current v3 image was verified in the X scheduled list as the single scheduled entry for September 28, 2026 at 09:00 KST. Its media URL is `https://pbs.twimg.com/media/HTQpw9DbAAELwhM.jpg`. Scheduled does not mean published.
 
 ## Earlier committee concept
 
@@ -23,5 +23,3 @@ This is the first Joan committee meme prepared for the J7C public log. It was cr
 The exact subtitle is: **“Our moat is an actual moat.”**
 
 Suggested context: independent VC-culture satire with no a16z affiliation or endorsement. The image makes no price, trading, return, or performance claim. It is a creative asset and does not establish audience response or campaign results.
-
-
