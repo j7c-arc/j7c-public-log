@@ -1,4 +1,5 @@
 # Changelog
+- Published and pinned the castle-guardian post at https://x.com/J7Cofficial/status/2104360441116000473 at 09:00 KST. The first check showed 2 views, 0 external replies/likes/reposts, and 4 followers; these are initial observations, not a performance claim.
 
 ## 2026-09-28
 
