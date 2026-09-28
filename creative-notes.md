@@ -6,13 +6,7 @@ The current J7C visual direction is an attractive adult Joan warrior guarding an
 
 ![Joan guards the Arc-inspired castle](j7c-arc-castle-guardian-v3.png)
 
-Scheduled caption:
-
-> Joan holds the gate.
->
-> $J7C
-
-The current v3 image was verified in the X scheduled list as the single scheduled entry for September 28, 2026 at 09:00 KST. Its media URL is `https://pbs.twimg.com/media/HTQpw9DbAAELwhM.jpg`. Scheduled does not mean published.
+Published and pinned on X at [this post](https://x.com/J7Cofficial/status/2104360441116000473) for September 28, 2026 at 09:00 KST. Its media URL is `https://pbs.twimg.com/media/HTQpw9DbAAELwhM.jpg`. The first check showed 2 views and no external replies, likes, or reposts; this is an initial snapshot, not a performance claim.
 
 ## Earlier committee concept
 
