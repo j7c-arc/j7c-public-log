@@ -1,9 +1,11 @@
 # Changelog
-- Published and pinned the castle-guardian post at https://x.com/J7Cofficial/status/2104360441116000473 at 09:00 KST. The first check showed 2 views, 0 external replies/likes/reposts, and 4 followers; these are initial observations, not a performance claim.
 
 ## 2026-09-28
 
-- Added a prepared current visual direction: an attractive adult Joan warrior guarding an Arc-inspired castle, with the caption “Joan holds the gate. / $J7C”. Publication status is not claimed.
+- Reorganized the introduction around Joan, the current guardian artwork, a no-purchase participation link, the exact contract, and source links. Moved initial engagement figures out of the introduction; dated observations remain in this record. Corrected the creative note's caption label from scheduled to published.
+
+- Published and pinned the castle-guardian post at [the verified X URL](https://x.com/J7Cofficial/status/2104360441116000473) at 09:00 KST. The first check showed 2 views, 0 external replies/likes/reposts, and 4 followers; these are initial observations, not a performance claim.
+- Added a prepared current visual direction: an attractive adult Joan warrior guarding an Arc-inspired castle, with the caption “Joan holds the gate. / $J7C”. This was the prepared direction before the verified publication recorded above.
 
 - Added a public-facing evidence log for J7C and a bounded Arc Chan case study.
 - Recorded the narrow observation that Arc Chan displayed 100% graduation at roughly 20 hours, while separating that observation from unproven causal, organic, paid-promotion, and durability claims.
