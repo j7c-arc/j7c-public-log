@@ -2,11 +2,17 @@
 
 ## Current direction
 
-The current J7C visual direction is an attractive adult Joan warrior guarding an Arc-inspired castle. The v3 artwork carries J7C lettering on the breastplate and Arc emblems on the garments and banners. The prepared image is AI-assisted character art for independent VC satire. It does not imply Arc or a16z affiliation or endorsement, and it makes no price, trading, return, or performance claim.
+The current J7C visual direction is an attractive adult Joan warrior guarding an Arc-inspired castle. The v3 artwork carries J7C lettering on the breastplate and Arc emblems on the garments and banners. The image is AI-assisted character art for independent VC satire. It does not imply Arc or a16z affiliation or endorsement, and it makes no price, trading, return, or performance claim.
 
 ![Joan guards the Arc-inspired castle](j7c-arc-castle-guardian-v3.png)
 
-Published and pinned on X at [this post](https://x.com/J7Cofficial/status/2104360441116000473) for September 28, 2026 at 09:00 KST. Its media URL is `https://pbs.twimg.com/media/HTQpw9DbAAELwhM.jpg`. The first check showed 2 views and no external replies, likes, or reposts; this is an initial snapshot, not a performance claim.
+Published caption:
+
+> Joan holds the gate.
+>
+> $J7C
+
+The current v3 image was published and pinned on X at [this post](https://x.com/J7Cofficial/status/2104360441116000473) for September 28, 2026 at 09:00 KST. Its media URL is https://pbs.twimg.com/media/HTQpw9DbAAELwhM.jpg. The first check showed 2 views and no external replies, likes, or reposts; this is an initial snapshot, not a performance claim.
 
 ## Earlier committee concept
 
