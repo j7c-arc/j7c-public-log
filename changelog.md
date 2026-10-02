@@ -1,5 +1,14 @@
 # Changelog
 
+## 2026-10-02
+
+- Added a reproducible [Argus on-chain milestone audit](argus-onchain-audit-2026-10-02.md). The deployed J7C hook returned `bonded = false`; the initialization tick, bonding tick, and latest StateView tick produce 6.6621% under Argus's documented formula. This is a read-only observation and does not claim 100% completion.
+- Recorded that the live hook points to Portal `0xeed7559b8a6abf64427dc41cb5cc6400109c5d93`. The seven Portal addresses in the current official repository returned empty launch records for J7C, so the deployed hook and Portal record were used instead of guessing a version from the UI.
+- Added an [exact-contract GeckoTerminal audit](geckoterminal-audit-2026-10-02.md). At 14:46 KST, the public API resolved J7C contract `0x4060e632bBb7D731d50fA8Fc58C82D93154085c1` to the J7C/USDC pool `0xf962e883fd2ab4b21e1248a7ea62835f3ae31f6103351f74dfada89d43c63c36` and reported zero buys, zero sells, and $0.00 volume across its 24-hour fields.
+- Added a first-screen contract warning because searches for “Joan of Arc” can surface an unrelated `JOAN` token. The full J7C token and pool addresses now accompany the public links.
+- Recorded that GeckoTerminal still returns `image_url: null` and `coingecko_coin_id: null` for J7C. No paid metadata update, wallet action, trade, or endorsement claim was made.
+- Preserved the discrepancy between the token endpoint's `total_reserve_in_usd` and the pool endpoint's `reserve_in_usd` instead of presenting them as one liquidity measure.
+
 ## 2026-09-28
 
 - Reorganized the introduction around Joan, the current guardian artwork, a no-purchase participation link, the exact contract, and source links. Moved initial engagement figures out of the introduction; dated observations remain in this record. Corrected the creative note's caption label from scheduled to published.
