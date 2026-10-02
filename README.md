@@ -6,7 +6,7 @@ An independent Joan-themed meme token on Arc. Castle lore, a silver-armored guar
 
 ![Joan in J7C armor guards an Arc-inspired castle at sunset](j7c-arc-castle-guardian-v3.png)
 
-[Meet Joan on X](https://x.com/J7Cofficial) · [Token page](https://argus.world/token/0x4060e632bBb7D731d50fA8Fc58C82D93154085c1) · [GeckoTerminal chart](https://www.geckoterminal.com/arc/pools/0xf962e883fd2ab4b21e1248a7ea62835f3ae31f6103351f74dfada89d43c63c36)
+[Open the Gatehouse](https://j7c-arc.github.io/j7c-public-log/) · [Meet Joan on X](https://x.com/J7Cofficial) · [Token page](https://argus.world/token/0x4060e632bBb7D731d50fA8Fc58C82D93154085c1) · [GeckoTerminal chart](https://www.geckoterminal.com/arc/pools/0xf962e883fd2ab4b21e1248a7ea62835f3ae31f6103351f74dfada89d43c63c36)
 
 **Contract check:** similarly named Joan tokens exist. J7C on Arc is only the token at `0x4060e632bBb7D731d50fA8Fc58C82D93154085c1`, paired with USDC in the GeckoTerminal pool at `0xf962e883fd2ab4b21e1248a7ea62835f3ae31f6103351f74dfada89d43c63c36`. Verify the complete addresses before using any market page.
 
